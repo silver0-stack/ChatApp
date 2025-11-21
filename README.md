@@ -3,14 +3,8 @@
 모바일프로그래밍(2021-2학기) 기말고사 대체 과제로 개발한 Java 기반 안드로이드 채팅 앱(프로토타입)입니다.  
 이 레포 README는 유튜브 쇼츠(전체 시연)와 README 내의 짧은 움직이는 미리보기(GIF/WebP)를 조합해 방문자가 클릭 없이도 동작 느낌을 볼 수 있게 구성했습니다.
 
-## 📽 시연 영상 (README 내 직접 재생)
-
-<video src="./demo.mp4" controls width="340">
-  브라우저가 video 태그를 지원하지 않습니다.
-</video>
-
-
-위 영상은 전체 시연을 담은 mp4이며, 클릭 없이 바로 재생 가능합니다.
+## 📽 시연 영상
+![Demo](./demo.gif)
 
 유튜브(전체 시연): https://youtube.com/shorts/D46P0icO_LI?feature=share
 
